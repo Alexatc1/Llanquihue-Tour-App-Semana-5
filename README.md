@@ -8,6 +8,7 @@ Sede: Valparaiso Online
 Este proyecto corresponde a la actividad de la sumativa Semana 5 de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición y herencia.
 
 🧱 Estructura general del proyecto
+
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, PaqueteTuristico, etc.)
