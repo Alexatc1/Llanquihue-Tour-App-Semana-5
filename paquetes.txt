@@ -1,0 +1,7 @@
+PT001;Trekking Cerro;Outdoor;29999
+PT002;Degustacion de vinos;Gastronomico;39999
+PT003;Kayaking;Deporte extremo;29999
+PT004;Degustacion gastronomica;Gastronomico;44999
+PT005;Camping;Outdoor;15999
+PT006;Tirolesa;Outdoor;19999
+PT007;Mountain Biking;Deporte extremo;24999

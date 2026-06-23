@@ -1,0 +1,2 @@
+Alondra Camacho;12.123.456-7;G001;TRUE;9999
+Victor Nieto;20.987.654-3;G002;FALSE;5999
