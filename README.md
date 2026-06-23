@@ -13,9 +13,7 @@ Este proyecto corresponde a la actividad de la sumativa Semana 5 de la asignatur
 
 ├── app/ # Clase principal con el método main
 ├── model/       # Clases de dominio (Persona, Cliente, Empleado, PaqueteTuristico, etc.)
-
 ├── service/     # Clases para la carga y lectura de archivos .txt
-
 └──  utils/      # Utilidades y validaciones
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
